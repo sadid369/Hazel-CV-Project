@@ -8,6 +8,7 @@ body {
 
 .hero {
     background-color: #f08e80;
+    min-width: 100vh;
     min-height: 90vh;
     color: white;
     display: inline-block;
